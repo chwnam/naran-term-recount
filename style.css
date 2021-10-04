@@ -1,0 +1,25 @@
+.ntr-table {
+}
+
+.ntr-table .col-checkbox {
+    width: 20px;
+}
+
+.ntr-table .col-taxonomy {
+    width: 300px;
+}
+
+.ntr-table .col-description {
+}
+
+.ntr-table .col-builtin {
+    width: 70px;
+}
+
+.ntr-table tbody .col-builtin {
+    color: #0d66c2;
+}
+
+.ntr-table .col-builtin.is-builtin {
+    color: #fe2d2d;
+}
